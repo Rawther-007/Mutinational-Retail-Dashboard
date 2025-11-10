@@ -61,5 +61,5 @@ An interactive slicer lets users filter all visuals by selected countries.
 
 
 ### Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Show what the dashboard looks like. - 
+Example: ![Dashboard Preview](https://github.com/Rawther-007/Mutinational-Retail-Dashboard/blob/main/Snapshot%20of%20Multination%20Retail%20Sales%20Dashboard.png)
